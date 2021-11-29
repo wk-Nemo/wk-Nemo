@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying in WHUT
+- 🌱 I’m currently learning vue3, go, vue2's source code....
+- 📫 How to reach me: [掘金·小猪皮皮呆](https://juejin.cn/user/3122268755465879)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk-Nemo)](https://github.com/anuraghazra/github-readme-stats)
