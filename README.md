@@ -19,9 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning vue3, go, vue2's source code....
 - 📫 How to reach me: [掘金·小猪皮皮呆](https://juejin.cn/user/3122268755465879)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk-Nemo)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wk-Nemo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-<!-- ![wk's github stats](https://github-readme-stats.vercel.app/api?username=wk-Nemo&hide=issues&hide_rank=true) -->
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wk-Nemo&layout=compact&custom_title=Most-Used-Langs-In-Github" alt="Top Langs!">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk-Nemo)](https://github.com/anuraghazra/github-readme-stats)
